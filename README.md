@@ -1,14 +1,14 @@
-#Test Práctico - Frontend
+# Test Práctico - Frontend
 
-##Instalation
+## Instalation
 
-###client-frontend
+### client-frontend
 ```bash
 npm install
 npm start
 ```
 
-###server-Frontend
+### server-Frontend
 ```bash
 npm install
 node app.js
