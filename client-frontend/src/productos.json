@@ -1,0 +1,65 @@
+{
+    "author": {
+        "name": "Carolina",
+        "lastname": "Turko Soto"
+    },
+    "categories": [
+        "Electrodomésticos y Aires Ac.",
+        "Refrigeración",
+        "Heladeras"
+    ],
+    "items": [
+        {
+            "id": "MLA648862231",
+            "title": "Heladera Conqueror Con Freezer Y Dispenser 328l Color Plata",
+            "price": {
+                "currency": "ARS",
+                "amount": 25999,
+                "decimals": 0
+            },
+            "picture": "http://mla-s2-p.mlstatic.com/947284-MLA31034576131_062019-I.jpg",
+            "condition": "new",
+            "free_shipping": false,
+            "address": "Capital Federal"
+        },
+        {
+            "id": "MLA804532783",
+            "title": "Heladera Philco 260 Litros Inoxidable Phct260x",
+            "price": {
+                "currency": "ARS",
+                "amount": 26999,
+                "decimals": 0
+            },
+            "picture": "http://mla-s2-p.mlstatic.com/693013-MLA31621938373_072019-I.jpg",
+            "condition": "new",
+            "free_shipping": true,
+            "address": "Capital Federal"
+        },
+        {
+            "id": "MLA752197756",
+            "title": "Heladera Con Freezer Gafa Hgf357afb Blanca 282lts Tio Musa",
+            "price": {
+                "currency": "ARS",
+                "amount": 22499.9,
+                "decimals": 9
+            },
+            "picture": "http://mla-s1-p.mlstatic.com/812210-MLA31048220001_062019-I.jpg",
+            "condition": "new",
+            "free_shipping": false,
+            "address": "Capital Federal"
+        },
+        {
+            "id": "MLA817083833",
+            "title": "Heladera Extra Freezer Patrick Hpk151m11n Black Steel 394l",
+            "price": {
+                "currency": "ARS",
+                "amount": 33999.9,
+                "decimals": 9
+            },
+            "picture": "http://mla-s2-p.mlstatic.com/679204-MLA32346599784_092019-I.jpg",
+            "condition": "new",
+            "free_shipping": true,
+            "address": "Capital Federal"
+        }
+    ]
+}
